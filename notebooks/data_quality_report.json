@@ -1,0 +1,28 @@
+{
+  "n_rows": 5970,
+  "n_cols": 21,
+  "missing_counts": {
+    "global_hour": 0,
+    "scenario_id": 0,
+    "hour_in_scenario": 0,
+    "rainfall_mm": 0,
+    "temperature_C": 0,
+    "vibration_hz": 0,
+    "wind_speed_kmh": 0,
+    "ground_saturation_pct": 0,
+    "freeze_thaw_cycles": 0,
+    "consecutive_rain_hours": 0,
+    "rainfall_intensity_mm_hr": 0,
+    "weathering_factor": 0,
+    "daily_max_temp": 0,
+    "daily_min_temp": 0,
+    "diurnal_range": 0,
+    "simulated_RMR": 0,
+    "simulated_discontinuity_score": 0,
+    "simulated_slope_angle": 0,
+    "LABEL": 0,
+    "trigger_reason": 0,
+    "image_file": 0
+  },
+  "duplicates": 0
+}
